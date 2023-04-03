@@ -213,8 +213,9 @@ background: #FFFFFF;
     height: 760px;
     margin-top: 40px;
     /*margin-right: 190px;*/
-    margin-left: 320px;
+    margin-left: 220px;
     margin-bottom: 40px;
+    display: inline-block;
 }
 
 .my-projects{
@@ -232,7 +233,7 @@ color: #2858FF;
 margin-top: 8px;
 margin-right: 489px;
 margin-bottom: 0px;
-margin-left: 346px;
+margin-left: 446px;
 padding: 0%;
 }
 
@@ -250,8 +251,8 @@ letter-spacing: 0em;
 text-align: center;
 color: #000000;
 margin-top: 0px;
-margin-right: 180px;
-margin-left: 40px;
+/*margin-right: 180px;*/
+margin-left: 160px;
 margin-bottom: 0px;
 }
 
@@ -266,8 +267,8 @@ font-weight: 400;
 line-height: 27px;
 letter-spacing: 0em;
 text-align: center;
-margin-right: 194px;
-margin-left: 60px;
+/*margin-right: 194px;*/
+margin-left: 180px;
 margin-top: 0px;
 padding: 0%;
 }
@@ -592,11 +593,12 @@ color: #2858FF;
     }
 
 #questions{
-    width: 1000px;
+    width: 740px;
     height: 467px;
-    margin-left: 420px;
+    margin-left: 380px;
     /*margin-right: 370px;*/
     margin-top: 40px;
+    display: inline-block;
 }
 .question{
  height: 18px;
@@ -610,7 +612,7 @@ letter-spacing: 0em;
 text-align: left;
 color: #2858FF;
 /*margin-right: 316px;*/
-margin-left: 220px;
+margin-left: 300px;
 }
 
 h6 {
@@ -625,8 +627,8 @@ h6 {
     text-align: center;
     color: #000000;
     margin-top: 6px;
-    margin-right: 320px;
-    margin-left: 0px;
+    /*margin-right: 220px;*/
+    margin-left: 120px;
     margin-bottom: 0px;
 
 }
@@ -641,7 +643,7 @@ line-height: 27px;
 letter-spacing: 0em;
 text-align: center;
 /*margin-right: 94px;*/
-margin-left: px;
+margin-left: 40px;
 margin-top: 16px;
 padding: 0%;
 margin-bottom: 24px;
